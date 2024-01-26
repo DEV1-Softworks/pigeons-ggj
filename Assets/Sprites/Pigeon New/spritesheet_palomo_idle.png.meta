@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: b73c819ab35b648ee9636df810114362
+guid: 44f5a3e0b97f742a7b76da81b137cb0c
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -48,7 +48,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 32
+  spritePixelsToUnits: 498
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -123,13 +123,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: pigeon_new_0
+      name: spritesheet_palomo_idle_0
       rect:
         serializedVersion: 2
-        x: 0
-        y: 0
-        width: 40
-        height: 32
+        x: 6
+        y: 6
+        width: 395
+        height: 492
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -137,20 +137,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 54e14a5cd126145a9ad2ee9c281f0b38
-      internalID: 1682539779
+      spriteID: 7c5018aae9ced4cd5a9fdc47e914ee7e
+      internalID: 1827114378
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: pigeon_new_1
+      name: spritesheet_palomo_idle_1
       rect:
         serializedVersion: 2
-        x: 40
-        y: 0
-        width: 39
-        height: 32
+        x: 410
+        y: 6
+        width: 395
+        height: 492
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -158,20 +158,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 0cd0622a9181d4250bd3060870e137bf
-      internalID: 146287414
+      spriteID: 16e90bd5c20af445ba155a57b22ac748
+      internalID: -1481021179
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: pigeon_new_2
+      name: spritesheet_palomo_idle_2
       rect:
         serializedVersion: 2
-        x: 79
-        y: 0
-        width: 39
-        height: 32
+        x: 814
+        y: 3
+        width: 392
+        height: 495
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -179,20 +179,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 98bf60d1c112249529a28b50eb0e4ad8
-      internalID: -118924123
+      spriteID: 47bb62a4121674c30bfebca835f682f7
+      internalID: 910281134
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: pigeon_new_3
+      name: spritesheet_palomo_idle_3
       rect:
         serializedVersion: 2
-        x: 118
-        y: 0
-        width: 39
-        height: 32
+        x: 1218
+        y: 3
+        width: 392
+        height: 495
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -200,20 +200,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: bc8f940f8c45b4a1491c427547093d0c
-      internalID: -1877954569
+      spriteID: d4c1ed421461649648a7095207db9f72
+      internalID: 1989547884
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: pigeon_new_4
+      name: spritesheet_palomo_idle_4
       rect:
         serializedVersion: 2
-        x: 157
-        y: 0
-        width: 39
-        height: 32
+        x: 1622
+        y: 6
+        width: 395
+        height: 483
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -221,20 +221,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 5d0e3068a6a874f28af41f172386a94e
-      internalID: -322561703
+      spriteID: 1d0c9cf0400974f2ca623434613fa397
+      internalID: 1218072003
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: pigeon_new_5
+      name: spritesheet_palomo_idle_5
       rect:
         serializedVersion: 2
-        x: 196
-        y: 0
-        width: 40
-        height: 32
+        x: 2026
+        y: 6
+        width: 395
+        height: 483
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -242,20 +242,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 11588d2ec28d540f7bc1607145fc11de
-      internalID: 462411606
+      spriteID: d8c0b943366194382b1fa04692ec72ca
+      internalID: 341570073
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: pigeon_new_6
+      name: spritesheet_palomo_idle_6
       rect:
         serializedVersion: 2
-        x: 236
-        y: 0
-        width: 39
-        height: 32
+        x: 2430
+        y: 3
+        width: 392
+        height: 482
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -263,20 +263,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 288d41e44c6a14631bde7655b85eac77
-      internalID: -1303805952
+      spriteID: dbf768c45cec24e56b0f1738b5026774
+      internalID: -675842679
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: pigeon_new_7
+      name: spritesheet_palomo_idle_7
       rect:
         serializedVersion: 2
-        x: 275
-        y: 0
-        width: 39
-        height: 32
+        x: 2834
+        y: 3
+        width: 392
+        height: 482
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -284,20 +284,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 8dbef0f7c6bf14566986fb9f4e479b53
-      internalID: -310145522
+      spriteID: 0da107bf57975491ea7100017608e3a6
+      internalID: -1643340636
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: pigeon_new_8
+      name: spritesheet_palomo_idle_8
       rect:
         serializedVersion: 2
-        x: 314
-        y: 1
-        width: 39
-        height: 31
+        x: 3238
+        y: 3
+        width: 395
+        height: 476
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -305,20 +305,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: b2561caadcf884455a1ceb4ef41c4893
-      internalID: 892468252
+      spriteID: 4db5e120baec849418cd263a413e5253
+      internalID: 1268258606
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: pigeon_new_9
+      name: spritesheet_palomo_idle_9
       rect:
         serializedVersion: 2
-        x: 353
-        y: 1
-        width: 39
-        height: 31
+        x: 3642
+        y: 3
+        width: 382
+        height: 460
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -326,20 +326,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 5325f22c360f94d2fb8e8143fa531c16
-      internalID: -1463678018
+      spriteID: 8b3a49382e5d14b43b8ceb562e1b4f1d
+      internalID: 504810927
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: pigeon_new_10
+      name: spritesheet_palomo_idle_10
       rect:
         serializedVersion: 2
-        x: 392
-        y: 0
-        width: 39
-        height: 32
+        x: 4046
+        y: 3
+        width: 382
+        height: 460
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -347,20 +347,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 9f49c2f397a40429daa134c8e0751b85
-      internalID: -354228605
+      spriteID: 11121caccabef498c989a28929a60702
+      internalID: 269951679
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: pigeon_new_11
+      name: spritesheet_palomo_idle_11
       rect:
         serializedVersion: 2
-        x: 431
-        y: 0
-        width: 40
-        height: 32
+        x: 4453
+        y: 6
+        width: 389
+        height: 467
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -368,20 +368,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: c88f178934a6a400ea4d7a7ce4e10c80
-      internalID: 156755991
+      spriteID: 3d4b875651eb8402ebb261aad262e631
+      internalID: -291505639
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: pigeon_new_12
+      name: spritesheet_palomo_idle_12
       rect:
         serializedVersion: 2
-        x: 471
-        y: 0
-        width: 39
-        height: 32
+        x: 4857
+        y: 6
+        width: 389
+        height: 467
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -389,20 +389,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 70d0fb523eb2347918455c4adea24efc
-      internalID: 886748904
+      spriteID: 80a874a9ba8284b5989489394de79fe0
+      internalID: 647183554
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: pigeon_new_13
+      name: spritesheet_palomo_idle_13
       rect:
         serializedVersion: 2
-        x: 510
-        y: 0
-        width: 39
-        height: 32
+        x: 5258
+        y: 3
+        width: 395
+        height: 476
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -410,20 +410,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 130ea619dbf4d498683d6c2376a1a1f6
-      internalID: -1438769815
+      spriteID: 249b28b538bcf458aa1269fbcc0b75f8
+      internalID: -956648145
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: pigeon_new_14
+      name: spritesheet_palomo_idle_14
       rect:
         serializedVersion: 2
-        x: 549
-        y: 0
-        width: 39
-        height: 32
+        x: 5662
+        y: 3
+        width: 395
+        height: 476
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -431,20 +431,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: c7a763756179a4e9d840f3abceeb7b8a
-      internalID: 1336444671
+      spriteID: a7c3bd8c09bcf4a56a5f6d7c33a2f98c
+      internalID: 1901755359
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: pigeon_new_15
+      name: spritesheet_palomo_idle_15
       rect:
         serializedVersion: 2
-        x: 588
-        y: 0
-        width: 39
-        height: 32
+        x: 6066
+        y: 3
+        width: 392
+        height: 486
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -452,176 +452,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 6837706262add4285b50b7e64dcf685c
-      internalID: -1604418803
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: pigeon_new_16
-      rect:
-        serializedVersion: 2
-        x: 627
-        y: 0
-        width: 40
-        height: 32
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: a7fda1041fef54b869dca453928ba9c3
-      internalID: -1286876524
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: pigeon_new_17
-      rect:
-        serializedVersion: 2
-        x: 667
-        y: 0
-        width: 39
-        height: 32
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: ca522a2ac128a48f6aef821724bb868c
-      internalID: 1426513292
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: pigeon_new_18
-      rect:
-        serializedVersion: 2
-        x: 706
-        y: 0
-        width: 38
-        height: 32
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 202deb2bf0e3c42049dcbad2447dbc9d
-      internalID: -637677947
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: pigeon_new_19
-      rect:
-        serializedVersion: 2
-        x: 744
-        y: 0
-        width: 40
-        height: 32
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: c52bc51964ccc4c498f8c3a1a899b824
-      internalID: -1049539739
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: pigeon_new_20
-      rect:
-        serializedVersion: 2
-        x: 784
-        y: 0
-        width: 39
-        height: 32
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 588c3449d2cab4a27a356505ecad7ace
-      internalID: 949382993
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: pigeon_new_21
-      rect:
-        serializedVersion: 2
-        x: 823
-        y: 0
-        width: 39
-        height: 32
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 8ca7272c4e22e43b498a421b2eb8d9b6
-      internalID: 435822538
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: pigeon_new_22
-      rect:
-        serializedVersion: 2
-        x: 862
-        y: 0
-        width: 39
-        height: 32
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: f4e3671bd477142fd8940bfe169731a7
-      internalID: -1351748258
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: pigeon_new_23
-      rect:
-        serializedVersion: 2
-        x: 901
-        y: 0
-        width: 40
-        height: 32
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: afaff9a6afae242158a2a5e35f7040a2
-      internalID: -1227126212
+      spriteID: 5e3b51317bfd5452db3ddc584fb4976c
+      internalID: -1058192461
       vertices: []
       indices: 
       edges: []
@@ -637,30 +469,22 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      pigeon_new_0: 1682539779
-      pigeon_new_1: 146287414
-      pigeon_new_10: -354228605
-      pigeon_new_11: 156755991
-      pigeon_new_12: 886748904
-      pigeon_new_13: -1438769815
-      pigeon_new_14: 1336444671
-      pigeon_new_15: -1604418803
-      pigeon_new_16: -1286876524
-      pigeon_new_17: 1426513292
-      pigeon_new_18: -637677947
-      pigeon_new_19: -1049539739
-      pigeon_new_2: -118924123
-      pigeon_new_20: 949382993
-      pigeon_new_21: 435822538
-      pigeon_new_22: -1351748258
-      pigeon_new_23: -1227126212
-      pigeon_new_3: -1877954569
-      pigeon_new_4: -322561703
-      pigeon_new_5: 462411606
-      pigeon_new_6: -1303805952
-      pigeon_new_7: -310145522
-      pigeon_new_8: 892468252
-      pigeon_new_9: -1463678018
+      spritesheet_palomo_idle_0: 1827114378
+      spritesheet_palomo_idle_1: -1481021179
+      spritesheet_palomo_idle_10: 269951679
+      spritesheet_palomo_idle_11: -291505639
+      spritesheet_palomo_idle_12: 647183554
+      spritesheet_palomo_idle_13: -956648145
+      spritesheet_palomo_idle_14: 1901755359
+      spritesheet_palomo_idle_15: -1058192461
+      spritesheet_palomo_idle_2: 910281134
+      spritesheet_palomo_idle_3: 1989547884
+      spritesheet_palomo_idle_4: 1218072003
+      spritesheet_palomo_idle_5: 341570073
+      spritesheet_palomo_idle_6: -675842679
+      spritesheet_palomo_idle_7: -1643340636
+      spritesheet_palomo_idle_8: 1268258606
+      spritesheet_palomo_idle_9: 504810927
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
