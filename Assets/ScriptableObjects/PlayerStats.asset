@@ -12,9 +12,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 34e5f3a063dff4f0c93c3269ce3ab64f, type: 3}
   m_Name: PlayerStats
   m_EditorClassIdentifier: 
-  Health: 6
+  Health: 10
   MaxHealth: 10
   Energy: 0
   MaxEnergy: 10
-  Cottons: 2
+  Cottons: 3
   MaxCottons: 5

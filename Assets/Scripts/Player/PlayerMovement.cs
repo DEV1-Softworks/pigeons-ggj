@@ -1,4 +1,5 @@
 using UnityEngine;
+using UnityEngine.InputSystem;
 public class PlayerMovement : MonoBehaviour
 {
     [Header("Config")]
@@ -8,6 +9,9 @@ public class PlayerMovement : MonoBehaviour
     private Vector2 moveDirection;
 
     private PlayerAnimations playerAnimations;
+    private float jumpingPower = 16f;
+    public LayerMask groundLayer;
+    public Transform groundCheck;
 
     private void Awake()
     {
@@ -24,6 +28,26 @@ public class PlayerMovement : MonoBehaviour
     private void FixedUpdate()
     {
         Move();
+    }
+
+    public void Jump(InputAction.CallbackContext context)
+    {
+        Debug.Log(context.canceled);
+
+        if (context.performed && IsGrounded())
+        {
+            rb2D.velocity = new Vector2(rb2D.velocity.x, jumpingPower);
+        }
+
+        if (context.canceled && rb2D.velocity.y > 0f)
+        {
+            rb2D.velocity = new Vector2(rb2D.velocity.x, rb2D.velocity.y * 0.5f);
+        }
+    }
+
+    private bool IsGrounded()
+    {
+        return Physics2D.OverlapCircle(groundCheck.position, 0.2f, groundLayer);
     }
 
     private void Move()
